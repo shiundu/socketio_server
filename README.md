@@ -2,7 +2,7 @@
 
 A simple socket.io server
 
-## How to use
+## How to run the server
 
 ```
 $ cd socketio_server
@@ -10,7 +10,7 @@ $ npm install
 $ node app
 ```
 
-Point your browser to `http://localhost:3000`.
+- Point your browser to `http://localhost:3000`.
 
 
 - Returns all workouts and Trainees
