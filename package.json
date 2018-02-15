@@ -1,0 +1,24 @@
+{
+  "name": "socketio_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiundu/socketio_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiundu/socketio_server/issues"
+  },
+  "homepage": "https://github.com/shiundu/socketio_server#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "socket.io": "^2.0.4"
+  }
+}
